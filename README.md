@@ -17,7 +17,7 @@ My approach is simple: **Data must drive action.** ---
 ### 🚀 My Work & Portfolio
 I regularly build end-to-end analytical pipelines—from data extraction and cleaning to statistical modeling and visualization. 
 
-👉 **[Dive into my full Portfolio on Notion (Detailed Case Studies & Insights) ->] (https://vy-data-analyst.notion.site/Hey-there-I-am-Vy-c1a4856bc181822cb1e10155843d968d?source=copy_link)**
+👉 **[Dive into my full Portfolio on Notion (Detailed Case Studies & Insights) ->] ([https://vy-data-analyst.notion.site/Hey-there-I-am-Vy-c1a4856bc181822cb1e10155843d968d?source=copy_link](https://vyportfoli3212.builtwithrocket.new/homepage?_cb=1773785118104)**
 
 *Alternatively, you can explore my open-source code and pinned repositories directly below! 👇*
 
