@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vy! 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fe06c2d-4591-44cc-9e24-db8958b4aef9" /># Hi there 👋, I'm Vy! 
 
 ### 📊 Data Analyst | Turning messy data into strategic business decisions
 
@@ -17,7 +17,7 @@ My approach is simple: **Data must drive action.** ---
 ### 🚀 My Work & Portfolio
 I regularly build end-to-end analytical pipelines—from data extraction and cleaning to statistical modeling and visualization. 
 
-**[Dive into my full Portfolio on Notion (Detailed Case Studies & Insights] -> https://vyportfoli3212.builtwithrocket.new/**
+**[Dive into my full Portfolio on Notion (Detailed Case Studies & Insights] -> https://v0-vy-portfolio.vercel.app/**
 
 *Alternatively, you can explore my open-source code and pinned repositories directly below! 👇*
 
