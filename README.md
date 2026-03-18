@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fe06c2d-4591-44cc-9e24-db8958b4aef9" /># Hi there 👋, I'm Vy! 
+# Hi there 👋, I'm Vy! 
 
 ### 📊 Data Analyst | Turning messy data into strategic business decisions
 
